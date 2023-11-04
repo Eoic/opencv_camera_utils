@@ -1,4 +1,4 @@
-### Camera video stream reader for OpenCV
+### Video stream reader and callibrator for OpenCV
 Supported inputs:
 * Web camera
 * Intel RealSense
